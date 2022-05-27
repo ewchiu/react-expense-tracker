@@ -1,4 +1,5 @@
 **Expense Tracker App** 
+
 An app that tracks expenses and displays some visual graphs I made to get comfortable with React. 
 
 You can add new expenses, filter them by year, and breaks down your monthly spending with graphs all made with React!
