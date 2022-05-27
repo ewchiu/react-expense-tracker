@@ -4,6 +4,6 @@ You can add new expenses, filter them by year, and breaks down your monthly spen
 
 Main page:
 
-\n![image](https://user-images.githubusercontent.com/30759829/170611635-d19523cd-ceee-4cae-962b-ddf92172292d.png)
+![image](https://user-images.githubusercontent.com/30759829/170611635-d19523cd-ceee-4cae-962b-ddf92172292d.png)
 
 
