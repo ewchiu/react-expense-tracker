@@ -9,4 +9,6 @@ I made this app to get comfortable with React.
 
 ![image](https://user-images.githubusercontent.com/30759829/170611635-d19523cd-ceee-4cae-962b-ddf92172292d.png)
 
+**Add a new expense**
 
+![image](https://user-images.githubusercontent.com/30759829/170632450-339db53e-846e-4d75-b92e-e0b63d005aec.png)
